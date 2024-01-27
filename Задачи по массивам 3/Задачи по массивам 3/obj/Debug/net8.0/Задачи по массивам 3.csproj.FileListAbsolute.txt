@@ -1,0 +1,14 @@
+C:\Users\Andzen\source\repos\Задачи по массивам 3\Задачи по массивам 3\bin\Debug\net8.0\Задачи по массивам 3.exe
+C:\Users\Andzen\source\repos\Задачи по массивам 3\Задачи по массивам 3\bin\Debug\net8.0\Задачи по массивам 3.deps.json
+C:\Users\Andzen\source\repos\Задачи по массивам 3\Задачи по массивам 3\bin\Debug\net8.0\Задачи по массивам 3.runtimeconfig.json
+C:\Users\Andzen\source\repos\Задачи по массивам 3\Задачи по массивам 3\bin\Debug\net8.0\Задачи по массивам 3.dll
+C:\Users\Andzen\source\repos\Задачи по массивам 3\Задачи по массивам 3\bin\Debug\net8.0\Задачи по массивам 3.pdb
+C:\Users\Andzen\source\repos\Задачи по массивам 3\Задачи по массивам 3\obj\Debug\net8.0\Задачи по массивам 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andzen\source\repos\Задачи по массивам 3\Задачи по массивам 3\obj\Debug\net8.0\Задачи по массивам 3.AssemblyInfoInputs.cache
+C:\Users\Andzen\source\repos\Задачи по массивам 3\Задачи по массивам 3\obj\Debug\net8.0\Задачи по массивам 3.AssemblyInfo.cs
+C:\Users\Andzen\source\repos\Задачи по массивам 3\Задачи по массивам 3\obj\Debug\net8.0\Задачи по массивам 3.csproj.CoreCompileInputs.cache
+C:\Users\Andzen\source\repos\Задачи по массивам 3\Задачи по массивам 3\obj\Debug\net8.0\Задачи по массивам 3.dll
+C:\Users\Andzen\source\repos\Задачи по массивам 3\Задачи по массивам 3\obj\Debug\net8.0\refint\Задачи по массивам 3.dll
+C:\Users\Andzen\source\repos\Задачи по массивам 3\Задачи по массивам 3\obj\Debug\net8.0\Задачи по массивам 3.pdb
+C:\Users\Andzen\source\repos\Задачи по массивам 3\Задачи по массивам 3\obj\Debug\net8.0\Задачи по массивам 3.genruntimeconfig.cache
+C:\Users\Andzen\source\repos\Задачи по массивам 3\Задачи по массивам 3\obj\Debug\net8.0\ref\Задачи по массивам 3.dll
